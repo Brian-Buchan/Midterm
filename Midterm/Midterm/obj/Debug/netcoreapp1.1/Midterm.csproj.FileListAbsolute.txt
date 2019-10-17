@@ -1,0 +1,9 @@
+C:\Users\buchanb5\Desktop\Midterm\Midterm\bin\Debug\netcoreapp1.1\Midterm.deps.json
+C:\Users\buchanb5\Desktop\Midterm\Midterm\bin\Debug\netcoreapp1.1\Midterm.runtimeconfig.json
+C:\Users\buchanb5\Desktop\Midterm\Midterm\bin\Debug\netcoreapp1.1\Midterm.runtimeconfig.dev.json
+C:\Users\buchanb5\Desktop\Midterm\Midterm\obj\Debug\netcoreapp1.1\Midterm.csprojResolveAssemblyReference.cache
+C:\Users\buchanb5\Desktop\Midterm\Midterm\obj\Debug\netcoreapp1.1\Midterm.AssemblyInfo.cs
+C:\Users\buchanb5\Desktop\Midterm\Midterm\bin\Debug\netcoreapp1.1\Midterm.dll
+C:\Users\buchanb5\Desktop\Midterm\Midterm\bin\Debug\netcoreapp1.1\Midterm.pdb
+C:\Users\buchanb5\Desktop\Midterm\Midterm\obj\Debug\netcoreapp1.1\Midterm.dll
+C:\Users\buchanb5\Desktop\Midterm\Midterm\obj\Debug\netcoreapp1.1\Midterm.pdb
